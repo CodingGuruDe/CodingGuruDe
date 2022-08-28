@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello future devs! 👋
 
 <!--
 **CodingGuruDe/CodingGuruDe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Launch your development career with project-based coaching - https://www.insideo.de
 
 Here are some ideas to get you started:
 
