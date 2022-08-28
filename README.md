@@ -1,4 +1,4 @@
-### Hello there, fellows <developers/> 👋
+### Hello there, fellows <code><developers/></code> 👋
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
